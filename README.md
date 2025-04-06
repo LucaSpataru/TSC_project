@@ -27,4 +27,6 @@ Dupa ce m-am asigurat ca mufele sunt aliniate cu componentele ce ies de pe placa
 
 In cele din urma am generat fisierele BOM, PNP si gerbers care se afla in fisierul Manufacturing.
 De asemenea am realizat o animatie cu exploded view, dar si un fisier .step cum este specificat in cerinta.
+
+
 ![OpenBookDiagram](https://github.com/user-attachments/assets/0c7cf70c-b92d-4d52-825a-fe6e54214325)
